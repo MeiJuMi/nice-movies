@@ -1,0 +1,31 @@
+{
+  "name": "Nice Movies",
+  "version": "1.0",
+  "type": "resource",
+  "items": [
+    {
+      "type": "image",
+      "name": "失控玩家",
+      "background_style": "#81ecf3",
+      "url": "https://img9.doubanio.com/view/photo/m/public/p2677520025.webp"
+    },
+    {
+      "type": "image",
+      "name": "Free Guy",
+      "background_style": "#94f5f5",
+      "url": "https://img9.doubanio.com/view/photo/m/public/p2657247312.webp"
+    },
+    {
+      "type": "image",
+      "name": "大空头",
+      "background_style": "#000000",
+      "url": "https://img9.doubanio.com/view/photo/m/public/p2666402031.webp"
+    },
+    {
+      "type": "image",
+      "name": "The Big Short",
+      "background_style": "#000000",
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2283531871.webp"
+    }
+  ]
+}
