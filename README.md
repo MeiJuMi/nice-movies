@@ -4,7 +4,7 @@ You can view the list by [TabHub](https://tabhub.io).
 
 Copy the link below as a resource url to add in your TabHub settings:
 
-* [Nice Movies](https://raw.githubusercontent.com/MeiJuMi/nice-movies/main/tabhub_resource.json)
+* [Nice movies](https://raw.githubusercontent.com/MeiJuMi/nice-movies/main/tabhub_resource.json)
 
 ---
 
