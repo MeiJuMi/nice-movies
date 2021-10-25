@@ -26,6 +26,18 @@
       "name": "The Big Short",
       "background_style": "#000000",
       "url": "https://img9.doubanio.com/view/photo/l/public/p2283531871.webp"
+    },
+    {
+      "type": "image",
+      "name": "特斯拉",
+      "background_style": "#000000",
+      "url": "https://img9.doubanio.com/view/photo/m/public/p2621789913.webp"
+    },
+    {
+      "type": "image",
+      "name": "Tesla",
+      "background_style": "#000000",
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2614169149.webp"
     }
   ]
 }
